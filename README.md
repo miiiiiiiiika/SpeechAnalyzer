@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/f73a3257-e14d-413a-b119-abc3be82068e
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/SpeechAnalyzer.git
+git clone https://github.com/miiiiiiiiika/SpeechAnalyzer.git
 cd SpeechAnalyzer
 
 python -m venv .venv
